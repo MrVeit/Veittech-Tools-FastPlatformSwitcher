@@ -1,7 +1,7 @@
 {
     "name": "com.veittech.tools.fast-platform-switcher",
     "version": "1.0.0",
-    "displayName": "Tool - Fast Platform Switcher",
+    "displayName": "Fast Platform Switcher",
     "description": "Fast Platform Switcher is a one-click tool to quickly switch between target build platforms.",
     "unity": "2020.3",
     "unityRelease": "0a2",
